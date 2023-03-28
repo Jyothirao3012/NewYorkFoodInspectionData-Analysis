@@ -7,7 +7,7 @@ Conducted analysis on a dataset of 4 million unclean food violation records from
 2. Analyzed the New York Food Inspection dataset, which included over 200,000 records of inspections and violations.
 
 
-3. Designed a well-organized star-schema dimensional model, resulting in the creation of 9 dimension and 2 fact tables.
+3. Designed a well-organized star-schema dimensional model, resulting in the creation of 7 dimension and 1 fact table.
 
 4. Used Alteryx to perform data cleaning, data pre-processing, data staging, and data loading.
 
